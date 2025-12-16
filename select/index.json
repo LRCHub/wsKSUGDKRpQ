@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "≠ME （ノットイコールミー）/  ≠ME【MV full】",
+  "base_artist": "≠ME",
+  "createdAt": "2025-12-16T13:15:38.836268Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lend Me Your Voice",
+      "artist": "Belle",
+      "has_synced": true,
+      "path": "select/01_Lend_Me_Your_Voice_Belle.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Look What You Made Me Do",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/02_Look_What_You_Made_Me_Do_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "My Mother Told Me (In Old Norse)",
+      "artist": "Colm R. McGuinness",
+      "has_synced": true,
+      "path": "select/03_My_Mother_Told_Me_(In_Old_Norse)_Colm_R._McGuinness.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pay Me My Money Down",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/04_Pay_Me_My_Money_Down_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Beers On Me",
+      "artist": "Dierks Bentley feat. BRELAND & HARDY",
+      "has_synced": true,
+      "path": "select/05_Beers_On_Me_Dierks_Bentley_feat._BRELAND_&_HARDY.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Beers On Me",
+      "artist": "Dierks Bentley",
+      "has_synced": true,
+      "path": "select/06_Beers_On_Me_Dierks_Bentley.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Break On Me",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/07_Break_On_Me_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Can't Do Without Me",
+      "artist": "Chayce Beckham",
+      "has_synced": true,
+      "path": "select/08_Can't_Do_Without_Me_Chayce_Beckham.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Can't Do Without Me",
+      "artist": "Chayce Beckham",
+      "has_synced": true,
+      "path": "select/09_Can't_Do_Without_Me_Chayce_Beckham.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Can't Reign On Me",
+      "artist": "Laurel Sabadosh",
+      "has_synced": true,
+      "path": "select/10_Can't_Reign_On_Me_Laurel_Sabadosh.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Chasing Me",
+      "artist": "Patrick Carpenter",
+      "has_synced": true,
+      "path": "select/11_Chasing_Me_Patrick_Carpenter.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Close to Me",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/12_Close_to_Me_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Country Girl (Shake It For Me)",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/13_Country_Girl_(Shake_It_For_Me)_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cover Me In Sunshine",
+      "artist": "P!nk feat. Willow Sage Hart",
+      "has_synced": true,
+      "path": "select/14_Cover_Me_In_Sunshine_P!nk_feat._Willow_Sage_Hart.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Ask Me How I Know",
+      "artist": "Bobby Pinson",
+      "has_synced": true,
+      "path": "select/15_Don't_Ask_Me_How_I_Know_Bobby_Pinson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don't Stand So Close To Me",
+      "artist": "The Police",
+      "has_synced": true,
+      "path": "select/16_Don't_Stand_So_Close_To_Me_The_Police.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Don't You (Forget About Me)",
+      "artist": "Simple Minds",
+      "has_synced": true,
+      "path": "select/17_Don't_You_(Forget_About_Me)_Simple_Minds.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Easy On Me",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/18_Easy_On_Me_Adele.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "≠ME",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_≠ME_≠ME.txt"
+    }
+  ]
+}
